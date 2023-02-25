@@ -1,0 +1,17 @@
+
+/__pycache__
+/data
+/dumps
+/PaddleOCR
+/logs
+bot.py
+bot_config.py
+config.yml
+device.json
+go-cqhttp
+
+qrcode.png
+service_config.py
+session.token
+LICENSE
+README.md
